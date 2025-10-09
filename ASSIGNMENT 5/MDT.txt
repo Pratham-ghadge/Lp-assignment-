@@ -1,0 +1,7 @@
+LOAD (P,1)
+ADD =1
+STORE (P,1)
+MEND
+INCR (P,1)
+INCR (P,1)
+MEND
