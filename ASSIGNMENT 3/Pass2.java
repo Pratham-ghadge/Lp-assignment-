@@ -51,7 +51,7 @@ public class Pass2{
                 continue;
             }
 
-            bw.write(tokens[t] + "  ");
+            bw.write(tokens[t] + " ");
 
             temp = new StringBuilder();
             t++;
